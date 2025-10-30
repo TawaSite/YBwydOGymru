@@ -4,9 +4,16 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'Monofonto';
+  src: url('fonts/monofonto.woff2') format('woff2'),
+       url('fonts/monofonto.woff') format('woff'),
+       url('fonts/monofonto.otf') format('opentype');
+}
+
 html, body {
   height: 100%;
-  font-family: 'Monofonto', sans-serif;
+  font-family: 'Monofonto', monospace;
   color: #fff;
   background: url('Background.jpg') center/cover no-repeat;
 }
