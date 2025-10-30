@@ -141,13 +141,14 @@ h2 {
   z-index: 1000;
   text-align: center;
   background: rgba(0, 0, 0, 0.7);
-  padding: 4rem;
+  padding: 2rem;
   border-radius: 12px;
   width: 80%;
+  margin-top: -10vh;
 }
 
 .hero-overlay h1 {
-  font-size: 3.5rem;
+  font-size: 4rem;
   color: #FFB612;
 }
 
