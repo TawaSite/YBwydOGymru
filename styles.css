@@ -18,10 +18,12 @@ html, body {
 
 .RestaurantBG {
   background: url('Building.jpg') center/cover no-repeat;
+  height: 130vh;
 }
 
 .FoodTruckBG {
   background: url('RealLocation.jpg') center/cover no-repeat;
+  height: 130vh;
 }
 
 /* Navbar Styles */
