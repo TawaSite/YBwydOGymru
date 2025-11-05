@@ -75,7 +75,7 @@ html, body {
 }
 
 .nav-gold {
-	color: #FFB612; 
+	color: #FFFFFF; 
 	padding: 0.5rem 0.8rem; 
 	border-radius: 5px; 
 }
@@ -93,7 +93,7 @@ html, body {
 }
 
 .nav-blue {
-	color: #002395;
+	color: #FFFFF;
 	padding: 0.5rem 0.8rem; 
 	border-radius: 5px; 
 }
@@ -162,7 +162,7 @@ html, body {
 }
 
 .about-text h2 {
-  color: #FFB612;
+  color: #FFFFFF;
   font-size: 2.5rem;
   margin-bottom: 1rem;
 }
@@ -211,35 +211,6 @@ html, body {
   transform: scale(1.05);
 }
 
-/* Additional Sections */
-.nl h2, .sp h2, .otf h2, .mr h2 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-.nl h2 { color: #DE3831; }
-.sp h2 { color: #002395; }
-.otf h2 { color: #FFB612; }
-.mr h2 { color: #007A4D; }
-
-.nl-gallery, .sp-gallery, .otf-gallery, .mr-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin-top: 2rem;
-  justify-content: center;
-}
-
-.nl img, .sp img, .otf img, .mr img {
-  width: 300px;
-  border-radius: 10px;
-}
-
-.nl img { border: 4px solid #002395; }
-.sp img { border: 4px solid #FFB612; }
-.otf img { border: 4px solid #007A4D; }
-.mr img { border: 4px solid #002395; }
-
 /* Contact Section */
 .contact {
   text-align: center;
@@ -250,7 +221,7 @@ html, body {
 .contact h2 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
-  color: #002395;
+  color: #FFFFFF;
 }
 
 /* Footer */
@@ -415,7 +386,7 @@ section {
   height: 25vw;
   border-radius: 10px;
   display: block;
-  border: 6px solid #007A4D;
+  border: 6px solid #DE3831;
 }
 
 .card-text {
@@ -430,7 +401,7 @@ section {
   justify-content: center;  
   align-items: center;       
   padding: 2vw 20vw;     
-  background: #FFB612;       
+  background: #007A4D;   
   color: #000;              
   border-radius: 8px;           
   font-weight: 700;
@@ -552,7 +523,7 @@ section {
   transition: background 0.3s ease;
 }
 .header-dropdown__link:hover {
-  background: #FFB612;
+  background: #007A4D;
   color: #000;
 }
 
