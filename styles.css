@@ -271,13 +271,11 @@ section {
   padding: 5rem 2rem;
 }
 
-.about, .coataltable, .atmosphere, .contact {
+.about, .contact {
   text-align: center;
 }
 
-.about { background: #111; }
-.coataltable { background: #222; }
-.atmosphere { background: #111; }
+.about { background: #FFF; }
 .contact { background: url('Background.jpg'); }
 
 .contact-overlay {
